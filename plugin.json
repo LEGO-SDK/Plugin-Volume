@@ -1,0 +1,9 @@
+{
+    "name": "Volume",
+    "api": "Plugin.Volume",
+    "request": {
+        "volume": "int"
+    },
+    "response": {
+    }
+}

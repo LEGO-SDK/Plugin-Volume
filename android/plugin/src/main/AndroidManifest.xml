@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.opensource.legosdk.plugin.volume">
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <meta-data android:name="LGOModule.Plugin.Volume" android:value="com.opensource.legosdk.plugin.volume.LGOVolume" />
+
+    </application>
+
+
+
+</manifest>
